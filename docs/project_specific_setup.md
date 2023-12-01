@@ -10,5 +10,3 @@ us to keep other docs easily aligned with future upstream changes to
 ```sh
 python -m ipykernel install --user --name advent --display-name "Python (advent)"
 ```
-
-

@@ -13,9 +13,17 @@ packages = [{ include = "advent", from = "advent" }]
 [tool.poetry.dependencies]
 python = "^3.11.6"
 # Everything below here is alphabetically sorted
+html2text = "^2020.1.16"
 ipykernel = "^6.27.1"
 ipython = "^8.18.1"
 jupyterlab = "^4.0.9"
+jupyterlab-notify = "^2.0.0"
+jupyternotify = "^0.1.15"
+notify-py = "^0.3.42"
+plyer = "^2.1.0"
+pushover = "^0.5"
+pync = "^2.0.3"
+pyobjus = "^1.2.3"
 
 [tool.poetry.dev-dependencies]
 # Everything below here is alphabetically sorted

@@ -4,8 +4,14 @@
 
 Delivering gift-wrapped tutorials for the trendiest Python libraries right in your inbox :)
 
-## Project cheatsheet
+## Advent Calendar
+  - **Day 1: Mastering Notifications with Python** – [newsletter](https://py-advent-calendar.beehiiv.com/p/py-advent-calendar-2023-day-1) – [notebook](advent/1_notifications/notebook.ipynb)
 
+---
+
+## CONTRIBUTING
+
+### Contributors Cheatsheet
   - **pre-commit:** `pre-commit run --all-files`
   - **pytest:** `pytest` or `pytest -s`
   - **coverage:** `coverage run -m pytest` or `coverage html`
@@ -13,8 +19,7 @@ Delivering gift-wrapped tutorials for the trendiest Python libraries right in yo
   - **updating requirements:** see [docs/updating_requirements.md](docs/updating_requirements.md)
   - **create towncrier entry:** `towncrier create 123.added --edit`
 
-
-## Initial project setup
+### Initial project setup
 
 1. See [docs/getting_started.md](docs/getting_started.md) or [docs/quickstart.md](docs/quickstart.md)
    for how to get up & running.
