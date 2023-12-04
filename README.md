@@ -6,6 +6,8 @@ Delivering gift-wrapped tutorials for the trendiest Python libraries right in yo
 
 ## Advent Calendar
   - **Day 1: Mastering Notifications with Python** – [newsletter](https://py-advent-calendar.beehiiv.com/p/py-advent-calendar-2023-day-1) – [notebook](advent/1_notifications/notebook.ipynb)
+  - **Day 2: Pandas Flavor Chains** – [newsletter](https://py-advent-calendar.beehiiv.com/p/day-225-pandas-flavor-chains) – [notebook](advent/2_pandas_flavor/notebook.ipynb)
+  - **Day 3: Transform Your Data Transformations** – [newsletter](https://py-advent-calendar.beehiiv.com/p/day-3-transform-data-transformations) – [notebook](advent/3_pyjanitor/notebook.ipynb)
 
 ---
 
